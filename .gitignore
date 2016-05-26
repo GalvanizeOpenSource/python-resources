@@ -1,1 +1,6 @@
 .ipynb_checkpoints/*
+*.pyc
+.idea
+*.bak
+*.swp
+.DS_Store
