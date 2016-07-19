@@ -2,6 +2,12 @@
 
 This repository will be a smattering of resources for learning Python.
 
+## One-click way to Get Started!
+
+Click the button below to launch a Jupyter notebook server in a Docker Container. No local install required; it's as easy as pie.
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/galvanizeopensource/python-resources)
+
 ## Folder Structure
 
 In terms of what all of the folders contain (and what order it might be good to look through if you're starting from ground 0):
