@@ -20,3 +20,4 @@ In terms of what all of the folders contain (and what order it might be good to 
 
 4. [exploring_data](./exploring_data) - This contains an easy-to-follow exploration of a dataset of _Hotel Receipts_ for hotels in Texas. This is a great example of how to approach a new dataset!
 
+5. [Bokeh_Demo](./Bokeh_demo) - This contains a quick intro to Bokeh, along with a demo of 2 examples of using Bokeh to create visualizations on a Pandas DataFrame.
